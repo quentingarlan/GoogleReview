@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SWPVTVy65U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qgarlan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ValidateGoogleInvitation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qgarlan\\.nuget\\packages\\google.apis\\1.73.0\\google.apis.1.73.0.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\google.apis.auth\\1.73.0\\google.apis.auth.1.73.0.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\google.apis.core\\1.73.0\\google.apis.core.1.73.0.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\google.apis.mybusinessaccountmanagement.v1\\1.70.0.3818\\google.apis.mybusinessaccountmanagement.v1.1.70.0.3818.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\qgarlan\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
